@@ -1,4 +1,4 @@
-# Taken from: https://github.com/apache/superset/blob/master/superset/db_engine_specs/gsheets.py  # noqa: E501
+# Taken from: https://github.com/apache/superset/blob/master/superset/db_engine_specs/gsheets.py
 from superset.db_engine_specs.sqlite import SqliteEngineSpec
 
 
